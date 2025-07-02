@@ -1,1 +1,36 @@
+<html>
+    <head>
+        <title>Portfolio Website</title>
+        <link rel="stylesheet" href="styles.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    </head>
+    <body>
+        <div class="main">
+            <nav class="logo1">
+                <a href="#" class="logo">Manish.</a>
+                <ul>
+                    <li class="active"><a href="#">About</a></li>
+                    <li><a href="skills.html">Skills</a></li>
+                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <section class="home">
+            <div class="main1">
+                <h2>Hi, I'm G Manish Reddy</h2>
+                <p>I am a final-year Computer Science (Artificial Intelligence) student with a strong interest in web development. 
+                    I enjoy designing and developing web pages and constantly explore new technologies
+                    that help bring my ideas to life.
+                    My passion lies in creating user-friendly, innovative web experiences.
+                    I'm always eager to learn and grow in the field of technology.</p>
+                <a href="https://github.com/Manishreddy2005" target="_blank"><i class='bx bxl-github'></i></a>
+                <a href="https://www.linkedin.com/in/gongal-reddy-manish-reddy/" target="_blank"><i class='bx bxl-linkedin' ></i></a>
+                <a href="https://www.instagram.com/reddy.g.manish?igsh=MWQxMzh1MXplaG1kMg==" target="_blank"><i class='bx bxl-instagram' ></i></a>
+                <a href="https://x.com/gmanishred66962?s=21" target="_blank"><i class='bx bxl-twitter' ></i></a>
+            </div>
+        </section>     
+    </body>
+</html>
+
 
